@@ -15,6 +15,7 @@
 * [Interconnected Services](product-and-structure-analysis/interconnected-services.md)
 * [Costs of Competition](product-and-structure-analysis/costs-of-competition.md)
 * [Product Development Workflow](product-and-structure-analysis/product-development-workflow.md)
+* [Advantages Of A Contributor Model For Product Development](product-and-structure-analysis/advantages-of-a-contributor-model-for-product-development.md)
 
 ## Contributor List
 
