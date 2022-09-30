@@ -4,7 +4,7 @@ description: Ideas for a Catalyst product development roadmap
 
 # Product Development Roadmap
 
-_Roadmap version 0.1_
+_Roadmap version 0.2_
 
 ### **Disclaimers**
 
@@ -62,11 +62,7 @@ As an example, it is logical to have a higher intensity of focus and effort on u
 
 Effort will be needed for all of these areas in the short term. The key question we’re trying to answer is which areas will be the most effective to spend more time on in the short term over other potential areas? Which areas are more dependent on the quality and outcome of work in other areas of the funding process?
 
-
-
-<figure><img src=".gitbook/assets/catalyst-product-development-roadmap.png" alt=""><figcaption><p>Catalyst Product Development Roadmap - Version 0.1</p></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/catalyst-product-development-roadmap.png" alt=""><figcaption><p>Catalyst Product Development Roadmap - Version 0.2</p></figcaption></figure>
 
 ### Short term
 
@@ -204,18 +200,8 @@ Throughout the funding process there is value in integrating insights and data f
 
 ### Feedback & suggestions
 
-Share any feedback and criticisms in the comments on how to improve these groupings or for adding any other areas. This is a draft roadmap to start suggesting ideas and sharing our thoughts.
+Share any feedback and criticisms in the [funding categories telegram chat](https://t.me/catalystfundingcategories) on how to improve these groupings or for adding any other areas. This is a draft roadmap to start suggesting ideas and sharing our thoughts.
 
 
 
 As this is a starting draft version we expect we’re likely missing work done by the community that has focussed on some of these areas that we haven’t seen. If there is any other existing community work around any of these areas then please add any details in the comments.
-
-
-
-### **Support our work!**
-
-We have been working on analysis for funding categorisation and a contributor based funding model since the end of 2021. You can support our completed efforts so far in these areas for Catalyst by voting on our fund 9 proposal - [**Funding Categories Analysis**](https://cardano.ideascale.com/c/idea/419483). You can find the Funding Categories Analysis proposal in the DAOs <3 Cardano challenge in the voting app.
-
-
-
-We’re going to continue focussing on the funding categorisation and contributor areas over the coming months. With any spare time we will also support any efforts towards the other short term areas in this roadmap - we believe these areas of focus will create the most impact for improving Catalyst.

@@ -8,6 +8,8 @@ description: >-
 
 ### **Product development workflow**
 
+The following is an example product development workflow. This could be adjusted and refined to suit the needs of a given team. There is no perfect model, teams will be flexible in responding to each situation as they see fit.
+
 1. **Problem sensing** - Gather problems about the ecosystem that community members are experiencing. Problem sensing should always be happening.
 2. **Problem categorisation** - The problems should be categorised such as is it a technical problem? A process issue? Lack of certain functionality? Similar problems should be combined if they are a duplicate of an existing problem.
 3. **Problem details and context** - What added details are needed to understand the problem, are their reasons it exists and hasn't been solved? Is there other contexts to consider such as another solution already being implemented that will impact this problem?&#x20;
@@ -23,8 +25,15 @@ description: >-
 
 
 
-**Notes**
+### **Notes**
 
 * **Collaboration** - Collaboration between multiple people is needed for every step of a product development process. Strong collaboration requires open, transparent and frequent communication from those involved in the process.&#x20;
 * **Consensus** - Voting on problem prioritisation and solutions require a democratic voting process with participants who have enough knowledge of the ecosystem.&#x20;
 * **Open process** - The information and decisions made from each part of the process should be open to the community. Feedback should be possible at any given stage.
+* **Experimentation** - Contributors working on different areas of any ecosystem will experiment on how they collaborate with each other to get impactful work done. It can be expected that approaches to improving products and processes to be updated regularly.
+
+
+
+### Resources
+
+* There are a number of ways to execute a product development workflow. Here are some examples thoughts and examples from [Google](https://www.youtube.com/watch?v=yyucwHDgAco), [Shopify](https://www.shopify.co.uk/blog/product-development-process), [GitLab](https://about.gitlab.com/handbook/product-development-flow/), [Product Plan](https://www.productplan.com/glossary/product-development-process/) and [Asana](https://asana.com/resources/product-development-process).
