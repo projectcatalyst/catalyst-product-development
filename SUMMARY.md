@@ -3,6 +3,7 @@
 ## Catalyst Product Development
 
 * [Product Development Roadmap](README.md)
+* [Importance Of Standards](catalyst-product-development/importance-of-standards.md)
 
 ## Funding Process
 
@@ -20,7 +21,7 @@
 ## Contributor List
 
 * [Overview](contributor-list/overview.md)
-* [George Lovegrove](contributor-list/george-lovegrove.md)
+* [George L](contributor-list/george-l.md)
 
 ## 🔗 Links
 

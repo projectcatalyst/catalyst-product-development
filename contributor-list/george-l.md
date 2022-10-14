@@ -1,4 +1,4 @@
-# George Lovegrove
+# George L
 
 The following list of tasks are based on what seems to be most logical to work on in the short term to push Catalyst forward and make positive change. If you believe there is something more impactful that makes more sense to work in the short term please feel free to reach out with your thoughts.
 
@@ -39,14 +39,16 @@ The following list of tasks are based on what seems to be most logical to work o
   * Source: [Scaling Funding Categories](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-analysis/scaling-funding-categories)
 * ****:white\_check\_mark: **Alternative idea funding categorisations** - Suggestions towards different categorisations that could be effective in the future such as reducing and combining some of the funding categories which have been suggested.
   * Source: [Alternative idea funding categorisations](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-analysis/alternative-idea-funding-categorisations)
-* **Funding category incentives and game theory** - Add analysis outlining the impact that the suggested categories can have. The rules and guidance added to categorisations can lead to profound impacts on the incentives and game theory involved in the funding process. Understanding this will help us better understand how it can impact how the ecosystem could be influenced by the categorisation.
+* ****:white\_check\_mark: **Incentives & game theory for open source development** - Add analysis outlining the impact that the suggested categories can have on incentivising open source development. The guidelines for the categories have an impact on what incentive are produced by the categories depending on the budget weighting that gets set for each category.
+  * Source: [Incentives & Game Theory For Open Source Development](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-analysis/incentives-and-game-theory-for-open-source-development)
+* **Catalyst community priority and proposal supply dynamics** - Analysis can be made on the community priority and proposal supply dynamics that exist in Catalyst that change each funding round. Priorities comes from what the community wants to see proposals for such as from setting goals and objectives, supply comes from the proposals that are submitted to cater for that demand or that tries to create its own demand.
 
 
 
 ### 2. Catalyst product development
 
-* **Catalyst community priority and proposal supply dynamics** - Analysis can be made on the community priority and proposal supply dynamics that exist in Catalyst that change each funding round. Priorities comes from what the community wants to see proposals for such as from setting goals and objectives, supply comes from the proposals that are submitted to cater for that demand or that tries to create its own demand.
-* **The importance of standards** - Analysis covering why standards are important for project catalyst and how they can lead to interoperable systems with a wider number of different applications as the ecosystem grows.
+* ****:white\_check\_mark: **The importance of standards** - Analysis covering why standards are important for project catalyst and how they can lead to interoperable systems with a wider number of different applications as the ecosystem grows.
+  * Source: [Importance Of Standards](../catalyst-product-development/importance-of-standards.md)
 
 
 
