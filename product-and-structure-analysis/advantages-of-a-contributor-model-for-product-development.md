@@ -6,7 +6,7 @@ description: >-
 
 # Advantages Of A Contributor Model For Product Development
 
-In the contributor analysis the key differences between [idea and contributor based proposals](https://docs.catalystcontributors.org/contributor-analysis/comparisons/idea-vs-contributor-proposals) are outlined. The advantages and issues are explored for the usage of either model for when people are working in the Catalyst and Cardano ecosystems.
+In the contributor categorisation analysis the key differences between [idea and contributor based proposals](https://docs.catalystcontributors.org/contributor-categorisation-analysis/analysis/idea-vs-contributor-proposals) are outlined. The advantages and issues are explored for the usage of either model for when people are working in the Catalyst and Cardano ecosystems.
 
 These differences with the contributor funding model highlight a number of benefits for the product development process.
 

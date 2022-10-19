@@ -73,12 +73,13 @@ Effort will be needed for all of these areas in the short term. The key question
 Funding categorisations group together focus areas along with a budget to allow proposers to submit proposals in each funding round. Funding categorisations determine what types of funding models exist and what areas in the ecosystem have access to funding. Funding categorisations directly impact the incentives that exist to support and improve the ecosystem. Looking at approaches to funding categorisation for the Cardano ecosystem means finding out what approaches are scalable and effective at incentivising high quality proposals that will create impact for a global blockchain ecosystem and that can handle adverse situations.
 
 * Existing community work:
-  * [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
   * [Catalyst Funding Categories](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/QQsRsN95MX1ihFh4Vffn/)
-  * [Contributor Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)
-  * [Catalyst Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/j1kv4hiNJHn5g0WEyrK5/) & [Cardano Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/)
+  *   [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
 
-****
+      * [Contributor Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)
+      * [Idea Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
+
+
 
 **Proposal standards**
 
