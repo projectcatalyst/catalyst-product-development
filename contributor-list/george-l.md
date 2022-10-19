@@ -13,7 +13,7 @@ The following list of tasks are based on what seems to be most logical to work o
 
 
 
-### 1. Catalyst funding categories & funding categorisation analysis
+### 1. Funding categories & Funding categorisation analysis
 
 * :white\_check\_mark: **Funding categories focus area grouping refinements** - Improvements can be made on how clear it is where specific proposals should be placed into [funding categories](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/QQsRsN95MX1ihFh4Vffn/). This refinement is important to reduce any remaining ambiguity of where to submit certain proposals into the funding categories.
   * Sources - [GitHub commit 1](https://github.com/projectcatalyst/catalyst-funding-categories/commit/5a5518462b5160586d326a1a5811cb86ade763ea) & [GitHub commit 2](https://github.com/projectcatalyst/catalyst-funding-categories/commit/cb97afbe223e5c1a8beeb31738fc80ec5301b504) or for viewing final result see[ Funding Categories](https://docs.catalystcontributors.org/catalyst-funding-categories/funding-categories/overview)
@@ -38,13 +38,13 @@ The following list of tasks are based on what seems to be most logical to work o
 * ****:white\_check\_mark: **Scaling funding categories** - Add analysis outlining how funding categories can be better scaled in the future with automation of budget weighting and a reduction in the number of categories if the voting infrastructure can support a higher complexity and keep the experience easy to voters.
   * Source: [Scaling Funding Categories](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-analysis/scaling-funding-categories)
 * ****:white\_check\_mark: **Alternative idea funding categorisations** - Suggestions towards different categorisations that could be effective in the future such as reducing and combining some of the funding categories which have been suggested.
-  * Source: [Alternative Idea Funding Categorisations](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-analysis/alternative-idea-funding-categorisations)
+  * Source: [Alternative Idea Funding Categorisations](https://docs.catalystcontributors.org/idea-categorisation-analysis/analysis/alternative-idea-funding-categorisations)
 * ****:white\_check\_mark: **Incentives & game theory for open source development** - Add analysis outlining the impact that the suggested categories can have on incentivising open source development. The guidelines for the categories have an impact on what incentive are produced by the categories depending on the budget weighting that gets set for each category.
-  * Source: [Incentives & Game Theory For Open Source Development](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-analysis/incentives-and-game-theory-for-open-source-development)
+  * Source: [Incentives & Game Theory For Open Source Development](https://docs.catalystcontributors.org/idea-categorisation-analysis/analysis/incentives-and-game-theory-for-open-source-development)
 * ****:white\_check\_mark: **Catalyst community priority and proposal supply dynamics** - Analysis can be made on the community priority and proposal supply dynamics that exist in Catalyst that change each funding round. Priorities comes from what the community wants to see proposals for such as from setting goals and objectives, supply comes from the proposals that are submitted to cater for that demand or that tries to create its own demand.
-  * Source: [Community Priorities & Idea Proposal Supply Dynamics](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-analysis/community-priorities-and-idea-proposal-supply-dynamics)
-
-
+  * Source: [Community Priorities & Idea Proposal Supply Dynamics](https://docs.catalystcontributors.org/idea-categorisation-analysis/analysis/community-priorities-and-idea-proposal-supply-dynamics)
+* :white\_check\_mark: **Improve categorisation analysis structure** - Refactored the documentation to add clarity and separation between general funding categorisation analysis and idea or contributor based categorisation analysis.
+  * Source: [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/), [Idea Categorisation Analysis](https://docs.catalystcontributors.org/idea-categorisation-analysis/), [Contributor Categorisation Analysis](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
 
 ### 2. Catalyst product development
 
