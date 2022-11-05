@@ -45,6 +45,8 @@ The following list of tasks are based on what seems to be most logical to work o
   * Source: [Community Priorities & Idea Proposal Supply Dynamics](https://docs.catalystcontributors.org/idea-categorisation-analysis/analysis/community-priorities-and-idea-proposal-supply-dynamics)
 * :white\_check\_mark: **Improve categorisation analysis structure** - Refactored the documentation to add clarity and separation between general funding categorisation analysis and idea or contributor based categorisation analysis.
   * Source: [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/), [Idea Categorisation Analysis](https://docs.catalystcontributors.org/idea-categorisation-analysis/), [Contributor Categorisation Analysis](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
+* :white\_check\_mark: **Comparing categorisation types** - Comparing the differences and use cases between idea, contributor, task and community based funding categorisations.
+  * Source: [Comparing Funding Categorisation Types](https://docs.catalystcontributors.org/funding-categorisation-analysis/analysis/comparing-funding-categorisation-types)
 
 ### 2. Catalyst product development
 
