@@ -1,15 +1,10 @@
-# George L
+---
+description: Work from Sep 2022 to Oct 2022
+---
 
-The following list of tasks are based on what seems to be most logical to work on in the short term to push Catalyst forward and make positive change. If you believe there is something more impactful that makes more sense to work in the short term please feel free to reach out with your thoughts.
+# Funding Categorisation Analysis V1.0
 
-
-
-**Contact details**
-
-* Discord - George Lovegrove#3020
-* Twitter - [twitter.com/cardanopace](https://twitter.com/cardanopace)
-
-## Current priorities
+The following is the work completed to get the funding categorisation analysis to a version 1.0. This work will be continued in the future after working on other more important areas in the short term.
 
 
 
@@ -26,7 +21,7 @@ The following list of tasks are based on what seems to be most logical to work o
 * ****:white\_check\_mark: **Introductory explainers for analysis** - Add some explanations about what contributors, the contributor funding model funding categorisation are about in the analysis documents&#x20;
   * Source: [What is a contributor?](https://docs.catalystcontributors.org/contributor-categorisation-analysis/what-is-a-contributor), [What is funding categorisation?](https://docs.catalystcontributors.org/funding-categorisation-analysis/what-is-funding-categorisation)
 * ****:white\_check\_mark: **Contributor product development environment** - Add analysis highlighting how suggestions such as Catalyst and Cardano contributors create a more effective product development environment to get work completed in the ecosystem.
-  * Source: [Advantages Of A Contributor Model For Product Development](../product-and-structure-analysis/advantages-of-a-contributor-model-for-product-development.md)
+  * Source: [Advantages Of A Contributor Model For Product Development](../../product-and-structure-analysis/advantages-of-a-contributor-model-for-product-development.md)
 * ****:white\_check\_mark: **Improve proposal guide and example contributor proposals** - Improve the proposal guide and improve example contributor proposals to better reflect what a completed proposal should look like.
   * Source: [Catalyst Contributors proposal guide](https://docs.catalystcontributors.org/catalyst-contributors/contributor-guides/candidate-proposal-guide), [Ada Lovelace example proposal](https://docs.catalystcontributors.org/catalyst-contributors/contributor-guides/candidate-proposal-guide/example-proposal-ada-lovelace), [Gerolamo Cardano example proposal](https://docs.catalystcontributors.org/catalyst-contributors/contributor-guides/candidate-proposal-guide/example-proposal-gerolamo-cardano), [Cardano Contributors proposal guide](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide), [Charles Babbage example proposal](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide/example-proposal-charles-babbage), [Leonardo Bonacci example proposal](https://docs.catalystcontributors.org/cardano-contributors/contributor-guides/candidate-proposal-guide/example-proposal-leonardo-bonacci)
 * ****:white\_check\_mark: **Improve analysis around addressing concerns and add analysis about handling challenging funding situations** - Improving the existing analysis on different concerns that need to be addressed relevant to funding categorisation and also adding some analysis going over potential solution options for handling challenging funding situations.
@@ -51,20 +46,4 @@ The following list of tasks are based on what seems to be most logical to work o
 ### 2. Catalyst product development
 
 * ****:white\_check\_mark: **The importance of standards** - Analysis covering why standards are important for project catalyst and how they can lead to interoperable systems with a wider number of different applications as the ecosystem grows.
-  * Source: [Importance Of Standards](../catalyst-product-development/importance-of-standards.md)
-
-
-
-### 3. Ongoing **work**
-
-* **Push for funding categorisation changes** - There is a [change proposal ](https://docs.catalystcontributors.org/catalyst-improvement-proposals/improvement-proposals/2.-replace-challenge-setting-with-funding-categories)shared with IOG to change how funding categorisation is done in Catalyst.
-* **Push for change with the need for a contributor funding model** - There is a [change proposal](https://docs.catalystcontributors.org/catalyst-improvement-proposals/improvement-proposals/3.-use-a-contributor-model-for-stewardship-and-delegated-authority) I have shared with IOG to push for introducing a contributor funding model to support and improvement the Catalyst ecosystem.
-* **Catalyst product development roadmap** - Iterate the Catalyst product development roadmap prioritisation items with community feedback in working groups and after town halls to better understand what areas of work need to be completed.
-* **Catalyst Circle communication** - Collaborate more with what is happening in Catalyst Circle and share recent work completed.
-
-
-
-### 4. Future areas of focus
-
-* **Proposal standards** - Start looking at defining what makes a good proposal and what a suitable data structure could be with what information should be captured and what technology can be used now and in the future to improve those standards.
-* **Working structures & processes** - Analyse how the community who are working on Catalyst can most effectively collaborate and work together using certain tools, processes and governance approaches and be efficient in delivering high quality outcomes.
+  * Source: [Importance Of Standards](../../catalyst-product-development/importance-of-standards.md)

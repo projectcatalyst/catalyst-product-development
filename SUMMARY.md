@@ -21,7 +21,9 @@
 ## Contributor List
 
 * [Overview](contributor-list/overview.md)
-* [George L](contributor-list/george-l.md)
+* [George L](contributor-list/george-l/README.md)
+  * [Funding Categorisation Analysis V1.0](contributor-list/george-l/funding-categorisation-analysis-v1.0.md)
+  * [Idea Proposal Standards](contributor-list/george-l/idea-proposal-standards.md)
 
 ## 🔗 Links
 
