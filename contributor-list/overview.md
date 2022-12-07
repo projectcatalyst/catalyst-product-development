@@ -16,6 +16,6 @@ This is the very start of this list and therefore doesn't have many people on it
 
 Anyone in the community can be added onto this list and state what they’re working on at the moment that is relevant to Catalyst and the product development roadmap items.
 
-Please reach out on Telegram - [https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+Please reach out on Telegram - [https://t.me/cardanopace](https://t.me/cardanopace)
 
 If there is anything missing on the product development roadmap that you are working on you can reach out for it to be added or better defined.

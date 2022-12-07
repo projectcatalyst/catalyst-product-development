@@ -201,7 +201,7 @@ Throughout the funding process there is value in integrating insights and data f
 
 ### Feedback & suggestions
 
-Share any feedback and criticisms in the [funding categories telegram chat](https://t.me/catalystfundingcategories) on how to improve these groupings or for adding any other areas. This is a draft roadmap to start suggesting ideas and sharing our thoughts.
+Share any feedback and criticisms in the [PACE telegram chat](https://t.me/cardanopace) on how to improve these groupings or for adding any other areas. This is a draft roadmap to start suggesting ideas and sharing our thoughts.
 
 
 
