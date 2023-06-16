@@ -31,7 +31,7 @@ Organisations have areas of competition which are beneficial and areas that prod
 * **Design** - Design ideas benefit from competition as they help produce different visual approaches from different people to find a better approach to move towards execution.
 * **Product** - Product ideas benefit from competition to help see different perspectives of how people may interact with the product.
 * **Innovation** - Ideas and approaches to innovation such as a DEX comparing and analysing multiple options for how to implement their order book or automatic market maker functionality is a high benefit area for competition of thought. Another example could be innovations on governance approaches for how to incentivise and engage relevant participants to governance decisions.
-* **Application** - The implementation of **** innovations and ideas that came from competition can benefit multiple approaches to arrive at a better final executed outcome.
+* **Application** - The implementation of innovations and ideas that came from competition can benefit multiple approaches to arrive at a better final executed outcome.
 
 
 
@@ -61,7 +61,7 @@ Organisations have areas of competition which are beneficial and areas that prod
 
 The [Cardano ecosystem](https://www.cardanocube.io/cardano-ecosystem-interactive-map) has seen a large number of competing DEX products emerge that will help people swap tokens from one to another. There are a number of drawbacks and some benefits to this competition.
 
-****
+
 
 **Drawbacks of competition**
 
@@ -71,7 +71,7 @@ The [Cardano ecosystem](https://www.cardanocube.io/cardano-ecosystem-interactive
 * **Closed source code** - Due to the high reward of executing and making a successful DEX product there is decreased incentive for a competing DEX to open source their code in the early stages. This reduces the chance and speed of the ecosystem benefiting from valuable collaboration and feedback across teams.
 * **Lack of collaboration** - Collaborating with other DEX teams can decrease the advantage one team may have over another. Less collaboration reduces ecosystem knowledge sharing. Each teams knowledge does not easily move to other teams within the ecosystem when there is high competition and less collaboration.&#x20;
 
-****
+
 
 **Benefits of competition**
 
@@ -106,7 +106,7 @@ The Catalyst ecosystem has some differences to other markets such as DEX markets
 * **Collaboration** - Collaboration is beneficial for most parts of the ecosystem especially around design (style guide, design assets), product (user flows and overall experience, experience analysis) and static parts of the application (information, repeatedly used functionality components).
 * **Economic** - Catalyst can be executed to a higher standard if funding resources are allocated effectively. Higher collaboration and less separated organisations for similar competing services will help with reducing the costs for marketing efforts and the duplicated costs incurred around legal and recruitment efforts and the execution of similar products.
 
-****
+
 
 ### Summary
 

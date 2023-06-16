@@ -26,7 +26,11 @@ A number of core services exist in Catalyst that make the governance of the trea
 8. **Rewarding** - Proposals with the most upvotes start receiving funding on a monthly basis.&#x20;
 9. **Reporting** - Proposers submit progress reports to provide evidence that progress is being made. Reporting is a requirement for proposers to continue to receive funding each month.
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/catalyst-components.png" alt=""><figcaption><p>Catalyst product flow</p></figcaption></figure>
+
+</div>
 
 
 

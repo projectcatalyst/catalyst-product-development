@@ -14,7 +14,7 @@ The [International Standards Organisation (ISO)](https://www.iso.org) are one of
 
 ### **Example usage of standards**
 
-****
+
 
 **TCP/IP network protocols**
 
@@ -64,7 +64,7 @@ When proposals are funded there is a need to audit the progress and completion o
 
 ### **Advantages of using standards in Catalyst**
 
-****
+
 
 **Interoperability**
 
@@ -110,7 +110,7 @@ The skills and knowledge required to understand and adopt standards into applica
 
 ### **Reasons not to use standards**
 
-****
+
 
 **Potential difficulties when creating a common approach**
 

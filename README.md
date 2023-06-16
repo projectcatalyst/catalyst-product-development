@@ -8,7 +8,7 @@ _Roadmap version 0.2_
 
 ### **Disclaimers**
 
-****
+
 
 **Draft version** - This is an initial draft version that aims to just share some initial ideas towards a product development roadmap. It will change and be updated based on community feedback.
 
@@ -28,7 +28,7 @@ _Roadmap version 0.2_
 
 ### **Objectives**
 
-****
+
 
 **Increase speed of improving Catalyst -** If a number of community members get behind a group of areas to work on it could help to increase the speed in which the Catalyst ecosystem is improved. The faster that Catalyst can improve the more effectively the ecosystem can scale to handle more proposals and voters and more total funding used in each round.
 
@@ -73,11 +73,11 @@ Effort will be needed for all of these areas in the short term. The key question
 Funding categorisations group together focus areas along with a budget to allow proposers to submit proposals in each funding round. Funding categorisations determine what types of funding models exist and what areas in the ecosystem have access to funding. Funding categorisations directly impact the incentives that exist to support and improve the ecosystem. Looking at approaches to funding categorisation for the Cardano ecosystem means finding out what approaches are scalable and effective at incentivising high quality proposals that will create impact for a global blockchain ecosystem and that can handle adverse situations.
 
 * Existing community work:
-  * [Catalyst Funding Categories](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/QQsRsN95MX1ihFh4Vffn/)
-  *   [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
+  * [Catalyst Funding Categories](http://localhost:5000/o/Pr76HeHUxsbctwx0OULs/s/QQsRsN95MX1ihFh4Vffn/)
+  *   [Funding Categorisation Analysis](http://localhost:5000/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
 
-      * [Contributor Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)
-      * [Idea Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
+      * [Contributor Categorisation Analysis](http://localhost:5000/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)
+      * [Idea Categorisation Analysis](http://localhost:5000/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
 
 
 
@@ -85,13 +85,13 @@ Funding categorisations group together focus areas along with a budget to allow 
 
 What makes a good proposal needs to be defined and how that information could be included and structured. Proposal standards should outline what information is most beneficial and useful for an idea or contributor based proposal. Structuring proposal information into a standard with what is required and optional provides a way for multiple implementations to be created on top of the defined standard. Analysis can help to effectively define what information is most beneficial to these different types of proposals and also how this information may change over time. These standards will change over time as new technology is adopted or new use cases need to be supported.
 
-****
+
 
 **Goal and objective standards**
 
 Goals and objectives allow the community to share what they believe is the highest priority area of focus for the ecosystem which would benefit from more support or funding. Creating standards for goals and objectives will mean looking at what information to include and how to structure this information effectively. The community will need to be able to create infrastructure based off any standards created for the community to set goals and objectives and for that to be integrated into other pieces of infrastructure.
 
-****
+
 
 **Processes & Working Structures**
 
@@ -123,7 +123,7 @@ As the number of proposals grow there is an increasing importance in creating ef
 * Dependencies:
   * Proposal standards - To group and rank proposals there is a need to have the most useful information included in all proposals submitted so they can be more easily compared and sorted.
 
-****
+
 
 **Auditing approaches**
 
@@ -132,7 +132,7 @@ Auditing approaches can focus on either progress or the outcome of funded propos
 * Dependencies:
   * Proposal standards - The intent and planned delivery for a proposal should be included and well structured. This information will allow for effective auditing approaches to consume and apply this information in the auditing different approaches.
 
-****
+
 
 **Goals and objective infrastructure**
 
@@ -141,13 +141,13 @@ Applications are needed for the community to start expressing what is priority f
 * Dependencies:
   * Goal and objective standards - Standards can be followed in the implementations
 
-****
+
 
 **Distributed representative (dRep) standards**
 
 IOG has started work in this area and is currently handling the introduction of distributed representatives along with the standards in which it will function on-chain. The evolution of this will be done in collaboration with the community and from the experience of the first cohorts who become dReps. Over time either in the medium or long term the core work for this can be pushed over to the community to handle.
 
-****
+
 
 **Voting standards**
 
@@ -157,7 +157,7 @@ Voting standards will concern the approaches used to vote on and govern the dist
 
 ### **Long term**
 
-****
+
 
 **Distributed representative (dRep) infrastructure**
 
@@ -166,7 +166,7 @@ dRep infrastructure could soon represent a wide number of applications and optio
 * Dependencies:
   * Distributed representative (dRep) standards - Any standards are used in the implementations
 
-****
+
 
 **Voting infrastructure**
 
@@ -177,7 +177,7 @@ Voting infrastructure should handle presenting submitted proposals to the commun
   * Voting standards - Integrate any voting standards agreed within the community such as the standards to accept the current up vote, down vote and abstain options provided in the current voting app. Applying standards allows the community to better achieve pluralism within the community and have multiple different voting based applications.
   * Proposal grouping and ranking approaches - Apply approaches to proposal groupings and rankings to make it easier for voters to view proposals before voting.
 
-****
+
 
 **Proposal infrastructure**
 
@@ -187,7 +187,7 @@ Proposal infrastructure should help allow the community to submit proposals and 
   * Proposal standards - Inherit any relevant proposal standards to ensure proposals submitted follow those standards. Applying standards allows the community to better achieve pluralism within the community and have multiple different proposal based applications.
   * Goal and objective standards - Proposals will benefit from highlighting which goals and objectives they are focussing on and as such could apply any standards created around setting goals and objectives within a proposal.
 
-****
+
 
 **Insights and data**
 

@@ -22,9 +22,8 @@
 
 * [Overview](contributor-list/overview.md)
 * [George L](contributor-list/george-l/README.md)
-  * [Funding Categorisation Analysis V1.0](contributor-list/george-l/funding-categorisation-analysis-v1.0.md)
-  * [Idea Proposal Standards](contributor-list/george-l/idea-proposal-standards.md)
+  * [1⃣ Funding Categorisation Analysis V1.0](contributor-list/george-l/funding-categorisation-analysis-v1.0.md)
 
 ## 🔗 Links
 
-* [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
+* [All Documentation](http://localhost:5000/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)

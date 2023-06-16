@@ -18,13 +18,13 @@ The better that Project Catalyst can effectively and efficiently govern the trea
 
 The infrastructure and processes used for the Catalyst process need to be able to scale to handle an increasingly global audience by being able to effectively support a growing number of proposers, assessors and voters that want to participate in the funding process.
 
-****
+
 
 ### **Resilient**&#x20;
 
 The Catalyst funding process needs to be resilient in handling and preventing adverse situations with examples being corruption, scammers, spam or identity fraud. Resilience will mean pushing governance decisions to the edges and applying the right checks and balances across the ecosystem to incentivise the right behaviours and outcomes and minimise and prevent the negative impact of bad actors.
 
-****
+
 
 ### **Efficient**&#x20;
 
@@ -42,13 +42,13 @@ To become a global leading ecosystem the Catalyst funding process will need to b
 
 The Catalyst ecosystem handles a large treasury owned by the community. This treasury needs to be safely and effectively managed and distributed by the infrastructure and processes used. Any infrastructure and processes used to operate the Catalyst funding process need to be robust and implemented to a high standard using best practices and applying high security standards so that funds and the community are safe.
 
-****
+
 
 ### **Maintainable**&#x20;
 
-The infrastructure and processes used to operate Catalyst need to be easy to maintain by aligning on standards and technical approaches where possible and using best practices. Keeping maintainability high will make the ecosystem more efficient and flexible in how it is updated.  Increasing alignment around implementations can help with increasing the ease of maintainability and make it easier for contributors with skill and knowledge sharing across the ecosystem. **** Ecosystem infrastructure and processes which are easier to maintain will also compete more effectively against other ecosystems.
+The infrastructure and processes used to operate Catalyst need to be easy to maintain by aligning on standards and technical approaches where possible and using best practices. Keeping maintainability high will make the ecosystem more efficient and flexible in how it is updated.  Increasing alignment around implementations can help with increasing the ease of maintainability and make it easier for contributors with skill and knowledge sharing across the ecosystem. Ecosystem infrastructure and processes which are easier to maintain will also compete more effectively against other ecosystems.
 
-****
+
 
 ### **Community Owned**&#x20;
 
