@@ -40,13 +40,13 @@ To become a global leading ecosystem the Catalyst funding process will need to b
 
 ### Robust
 
-The Catalyst ecosystem handles a large treasury owned by the community. This treasury needs to be safely and effectively managed and distributed by the infrastructure and processes used. Any infrastructure and processes used to operate the Catalyst funding process need to be robust and implemented to a high standard using best practices and applying high security standards so that funds and the community are safe.
+The Catalyst ecosystem handles a large treasury owned by the community. This treasury needs to be safely managed and distributed by the infrastructure and processes used. Any infrastructure and processes used to operate the Catalyst funding process need to be robust and implemented to a high standard by using best practices and applying suitable security standards so that treasury funds and community participants are safe.
 
 
 
 ### **Maintainable**&#x20;
 
-The infrastructure and processes used to operate Catalyst need to be easy to maintain by aligning on standards and technical approaches where possible and using best practices. Keeping maintainability high will make the ecosystem more efficient and flexible in how it is updated.  Increasing alignment around implementations can help with increasing the ease of maintainability and make it easier for contributors with skill and knowledge sharing across the ecosystem. Ecosystem infrastructure and processes which are easier to maintain will also compete more effectively against other ecosystems.
+The infrastructure and processes used to operate Catalyst need to be easy to maintain by aligning on processes and technical approaches where possible and establishing best practices. Keeping maintainability high will make the ecosystem more efficient and flexible in how it is updated.  Increasing alignment around implementations can help with increasing the ease of maintainability and make it easier for contributors with skill and knowledge sharing across the ecosystem. Ecosystem infrastructure and processes which are easier to maintain will also compete more effectively against other ecosystems.
 
 
 

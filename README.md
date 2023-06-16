@@ -62,7 +62,7 @@ As an example, it is logical to have a higher intensity of focus and effort on u
 
 Effort will be needed for all of these areas in the short term. The key question we’re trying to answer is which areas will be the most effective to spend more time on in the short term over other potential areas? Which areas are more dependent on the quality and outcome of work in other areas of the funding process?
 
-<figure><img src=".gitbook/assets/catalyst-product-development-roadmap.png" alt=""><figcaption><p>Catalyst Product Development Roadmap - Version 0.2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/catalyst-product-development-roadmap.png" alt=""><figcaption><p>Catalyst Product Development Roadmap</p></figcaption></figure>
 
 ### Short term
 
@@ -81,25 +81,24 @@ Funding categorisations group together focus areas along with a budget to allow 
 
 
 
-**Proposal standards**
+**Funding proposals**
 
-What makes a good proposal needs to be defined and how that information could be included and structured. Proposal standards should outline what information is most beneficial and useful for an idea or contributor based proposal. Structuring proposal information into a standard with what is required and optional provides a way for multiple implementations to be created on top of the defined standard. Analysis can help to effectively define what information is most beneficial to these different types of proposals and also how this information may change over time. These standards will change over time as new technology is adopted or new use cases need to be supported.
-
-
-
-**Goal and objective standards**
-
-Goals and objectives allow the community to share what they believe is the highest priority area of focus for the ecosystem which would benefit from more support or funding. Creating standards for goals and objectives will mean looking at what information to include and how to structure this information effectively. The community will need to be able to create infrastructure based off any standards created for the community to set goals and objectives and for that to be integrated into other pieces of infrastructure.
+What makes a good proposal needs to be established by looking at what information should be included and how it should be structured. Efforts to improve funding proposals should help with identifying what information is most beneficial and useful for different proposal types like idea or contributor based proposals. Structuring proposal information into a more standardised approach with what is required and optional provides a way for multiple implementations to be created on top of this defined approach. Analysis can help to effectively define what information is most beneficial to these different types of proposals and also how this information may change over time. The funding proposal structures will likely change over time as new technology is adopted and new use cases need to be supported.
 
 
 
-**Processes & Working Structures**
+**Goal & objective approaches**
 
-Catalyst will have an increasing number of parameters, standards and infrastructure being used in the funding process by the community. Assessing processes and working structures will define how these are maintained, improved and changed. Exploring different working and governance structures will help in finding effective ways for the community to collaborate together to change and improve the Catalyst funding process.
+Goals and objectives allow the community to share what they believe is the highest priority area of focus for the ecosystem which would benefit from more support or funding. Understanding the ways that goals and objectives can be recorded will mean comparing different ways the community members can prioritise problems, showcase that information, verify statements made and vote on which priorities are important to them. The community will need to be able to create infrastructure based off these analysed approaches so they can set goals and objectives to help with more effectively allocating treasury resources.
 
-*   Impacted by:
 
-    * Funding categorisation approaches - Many processes in Catalyst will need recurring support. This means the incentive structures created by funding categorisation will be important to ensure support is available to maintain and improve these systems and processes.
+
+**Processes & working structures**
+
+Catalyst will have an increasing number of parameters, standards and infrastructure being used across the funding process by the community. Assessing the processes and working structures will help with defining how these can be maintained, improved and changed. Exploring different working and governance structures will help in finding what ways are effective ways for the community to collaborate together to change and improve the Catalyst funding process.
+
+* Impacted by:
+  * Funding categorisation approaches - Many processes in Catalyst will need recurring support. This means the incentive structures created by the funding categorisations being used will be an important part for ensuring support is available to maintain and improve the funding process.
 
 
 
@@ -112,7 +111,7 @@ Catalyst will have an increasing number of parameters, standards and infrastruct
 Approaches for doing proposal assessments helps to highlight the quality, accuracy and intent of the proposals submitted. Objective assessment approaches can explore what information should be included and the quality or accuracy of that information. Subjective assessment approaches can explore how to incorporate peoples opinions and expertise against what has been proposed to highlight things such as the quality, auditability, feasibility and potential impact of a given proposal.
 
 * Dependencies:
-  * Proposal standards - To most effectively assess proposals there is a benefit that the information that is most beneficial to understand the proposal is included and clearly structured.
+  * Funding proposals - To most effectively assess proposals there is a benefit that the information that is most beneficial to understand the proposal is included and clearly structured.
 
 
 
@@ -121,7 +120,7 @@ Approaches for doing proposal assessments helps to highlight the quality, accura
 As the number of proposals grow there is an increasing importance in creating effective ways to group and rank proposals based on certain data points or attributes. Groupings could be around tags, goals and objectives, proposal types or any other relevant attribute. Proposal ranking algorithms and approaches could be influenced by goals and objectives, team history and relevant historic Catalyst data. Voters need an easy and effective way to vote on proposals in the areas that they know or care about.
 
 * Dependencies:
-  * Proposal standards - To group and rank proposals there is a need to have the most useful information included in all proposals submitted so they can be more easily compared and sorted.
+  * Funding proposals - To group and rank proposals there is a need to have the most useful information included in all proposals submitted so they can be more easily compared and sorted.
 
 
 
@@ -130,7 +129,7 @@ As the number of proposals grow there is an increasing importance in creating ef
 Auditing approaches can focus on either progress or the outcome of funded proposals. Progress auditing approaches will help to determine the actual progress of a funded proposal in executing what it intended to do and how the community could respond to different scenarios. Outcome auditing approaches can help with trying to determine how effectively a given proposal or contributor has managed to achieve the goals and objectives they set out in their proposal and whether that initiative did in fact create much impact.
 
 * Dependencies:
-  * Proposal standards - The intent and planned delivery for a proposal should be included and well structured. This information will allow for effective auditing approaches to consume and apply this information in the auditing different approaches.
+  * Funding proposals - The intent and planned delivery for a proposal should be included and well structured. This information will help with looking at what effective auditing approaches can be applied with this information.
 
 
 
@@ -139,19 +138,19 @@ Auditing approaches can focus on either progress or the outcome of funded propos
 Applications are needed for the community to start expressing what is priority for the ecosystem. This information needs to be publicly available and consumable by other services and applications in the ecosystem. Infrastructure will help the community participate in expressing their opinions and collectively to better direct attention to areas that need it. This information is well suited in the voting infrastructure to highlight which proposals match up with what goals and objectives. Goals and objectives could also be integrated into multiple processes and applications in the funding process.
 
 * Dependencies:
-  * Goal and objective standards - Standards can be followed in the implementations
+  * Goal and objective approaches - Creating better infrastructure based of a more thorough understanding of how to effectively capture the priorities of the community.
 
 
 
-**Distributed representative (dRep) standards**
+**Distributed representatives (dRep) approaches**
 
-IOG has started work in this area and is currently handling the introduction of distributed representatives along with the standards in which it will function on-chain. The evolution of this will be done in collaboration with the community and from the experience of the first cohorts who become dReps. Over time either in the medium or long term the core work for this can be pushed over to the community to handle.
+IOG has started work in this area and is currently handling the introduction of distributed representatives along with any initial structures it needs to function on-chain. The evolution of this will slowly move towards being in collaboration with the community and from the experience of the first cohorts who become dReps. Over time either in the medium or long term the core work for this can be pushed over to the community to handle. Efforts here will look at the range of ways that delegated representatives can operate to effectively support the community and what policies and rules should be in place.
 
 
 
-**Voting standards**
+**Voting approaches**
 
-Voting standards will concern the approaches used to vote on and govern the distribution of funds from the Cardano treasury to selected proposals and initiatives. On chain voting and how that works from a standards perspective is currently being implemented and managed by IOG in their own sidechain and used in the voting app. The community can expect efforts to eventually move over to the community at some point in the medium or long term.
+Voting approaches the different ways voting systems can be created to govern the distribution of funds from the Cardano treasury to selected proposals and initiatives. On chain voting and how that works is currently being implemented and managed by IOG on their own sidechain and used in the voting app. The community can expect that these efforts will eventually move over to the community at some point in the medium or long term.
 
 
 
@@ -161,10 +160,11 @@ Voting standards will concern the approaches used to vote on and govern the dist
 
 **Distributed representative (dRep) infrastructure**
 
-dRep infrastructure could soon represent a wide number of applications and options for the community to use to learn about, interact with and delegate to distributed representatives in the community. Once standards are made on how someone can become a dRep on-chain in the ecosystem the community will be able to create infrastructure that makes it easier to interact with this use case and consume any relevant information.
+dRep infrastructure could soon represent a wide number of applications and options for the community to use to learn about, interact with and delegate to distributed representatives in the community. Once the different approaches for how dReps can function are better understood the community can look at what infrastructure will make sense to most effectively support the different use cases needed.
 
-* Dependencies:
-  * Distributed representative (dRep) standards - Any standards are used in the implementations
+*   Dependencies:
+
+    * Distributed representative (dRep) approaches - Integrating any lessons learnt from the efforts made to better understand how dReps can operate and what responsibilities, policies and processes could be put in place to make the role more effective.
 
 
 
@@ -173,19 +173,19 @@ dRep infrastructure could soon represent a wide number of applications and optio
 Voting infrastructure should handle presenting submitted proposals to the community and allow them to vote on proposals they would like to receive funding. After the voting period finishes the tallying of votes will reveal the winning proposals. Currently there is already a voting app owned and managed by IOG. At some point in the future these efforts will be pushed into the community.
 
 * Dependencies:
-  * Proposal standards - Inherit any relevant proposal standards to allow proposals to be added to voting infrastructure
-  * Voting standards - Integrate any voting standards agreed within the community such as the standards to accept the current up vote, down vote and abstain options provided in the current voting app. Applying standards allows the community to better achieve pluralism within the community and have multiple different voting based applications.
+  * Funding proposals - Inherit any relevant lessons learnt from improving funding proposals to use this when making any voting infrastructure
+  * Voting approaches - Integrate any voting approaches agreed within the community such as the approach taken to accept the current up vote, down vote and abstain options provided in the current voting app. The better that voting approaches are understood the easier it will be for the community to converge on the better approaches that can be used across different voting apps.
   * Proposal grouping and ranking approaches - Apply approaches to proposal groupings and rankings to make it easier for voters to view proposals before voting.
 
 
 
 **Proposal infrastructure**
 
-Proposal infrastructure should help allow the community to submit proposals and relevant information for the community to consider for funding. Infrastructure may help with areas such as verifying team details, execution history, funding history and just applying the correct structure to the proposal information based on any proposal standards being used in the community.
+Proposal infrastructure should help allow the community to submit proposals and relevant information for the community to consider for funding. Infrastructure may help with areas such as verifying team details, execution history, funding history and just applying the correct structure to the proposal information based on any funding proposal being used in the community.
 
 * Dependencies:
-  * Proposal standards - Inherit any relevant proposal standards to ensure proposals submitted follow those standards. Applying standards allows the community to better achieve pluralism within the community and have multiple different proposal based applications.
-  * Goal and objective standards - Proposals will benefit from highlighting which goals and objectives they are focussing on and as such could apply any standards created around setting goals and objectives within a proposal.
+  * Funding proposals - Inherit any effective funding proposal approaches to ensure proposals submitted include all of the information needed to be effectively assessed, compared, measured and tracked.
+  * Goal and objective approaches - Proposals will benefit from highlighting which goals and objectives they are focussing on in their proposals.
 
 
 
@@ -195,7 +195,7 @@ Throughout the funding process there is value in integrating insights and data f
 
 *   Dependencies:
 
-    * Any Catalyst standards - Standards created and used in the Catalyst process that get applied to community made infrastructure will create new feeds of important data. This data can be fed into aggregated insights and data that can be used to enhance different applications or processes.
+    * Any Catalyst infrastructure - Any infrastructure created and used in the Catalyst process will create new feeds of important data. This data can be fed into aggregated insights and data that help further enhance different applications and processes.
 
 
 
